@@ -2,4 +2,4 @@
 
 Complete this message by merging both paths:
 
-MESSAGE: ___________________________
+MESSAGE: THE GATE
