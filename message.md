@@ -2,4 +2,4 @@
 
 Complete this message by merging both paths:
 
-MESSAGE: THE GATE
+MESSAGE: TEAMWORK OPENS THE GATE
